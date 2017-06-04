@@ -14,8 +14,8 @@ private:
     sf::RenderWindow m_window;
 
 public:
-    static const int ScreenWidth = 400;
-    static const int ScreenHeight = 300;
+    static const int ScreenWidth = 600;
+    static const int ScreenHeight = 800;
     static const int ColorBitDepth = 32;
 
     //static const std::string WindowTitle = "REMI GRA";
