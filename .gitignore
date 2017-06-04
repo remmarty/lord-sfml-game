@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# cmake temporary
+cmake-build-debug/
+
+# clion temp
+.idea/
